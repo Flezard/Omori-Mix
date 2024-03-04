@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "boensunny_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "boensunny_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "boensunny_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-62
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "boensunny_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "boensunny_up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boen_sunny",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "boen",
+	"flip_x": false,
+	"healthbar_colors": [
+		26,
+		0,
+		255
+	],
+	"camera_position": [
+		-100,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

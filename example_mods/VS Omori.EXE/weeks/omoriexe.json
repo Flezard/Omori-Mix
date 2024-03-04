@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Your Time",
+			"telu",
+			[
+				255,
+				0,
+				145
+			]
+		],
+		[
+			"Blue Space",
+			"boen",
+			[
+				0,
+				0,
+				195
+			]
+		],
+		[
+			"tbh",
+			"bagel",
+			[
+				80,
+				155,
+				80
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

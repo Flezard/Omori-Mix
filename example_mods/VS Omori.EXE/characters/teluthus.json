@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "telu_idle"
+		},
+		{
+			"offsets": [
+				44,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "telu_left"
+		},
+		{
+			"offsets": [
+				-112,
+				-124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "telu_right"
+		},
+		{
+			"offsets": [
+				23,
+				-211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "telu_down"
+		},
+		{
+			"offsets": [
+				-16,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "telu_up"
+		},
+		{
+			"offsets": [
+				55,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "voice",
+			"indices": [],
+			"name": "telu_voiceline"
+		},
+		{
+			"offsets": [
+				64,
+				-68
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "voice-hold",
+			"indices": [
+				257,
+				258,
+				259,
+				260
+			],
+			"name": "telu_voiceline"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/teluthus",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "telu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		145
+	],
+	"camera_position": [
+		15,
+		225
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

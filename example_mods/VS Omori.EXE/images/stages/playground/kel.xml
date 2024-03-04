@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kel.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kel0000" x="22" y="22" width="234" height="416"/>
+	<SubTexture name="Kel0001" x="22" y="22" width="234" height="416"/>
+	<SubTexture name="Kel0002" x="269" y="22" width="234" height="416"/>
+	<SubTexture name="Kel0003" x="269" y="22" width="234" height="416"/>
+	<SubTexture name="Kel0004" x="22" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0005" x="22" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0006" x="269" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0007" x="269" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0008" x="269" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0009" x="269" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0010" x="269" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0011" x="269" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0012" x="269" y="451" width="234" height="416"/>
+	<SubTexture name="Kel0013" x="269" y="451" width="234" height="416"/>
+</TextureAtlas>

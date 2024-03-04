@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hero.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hero0000" x="45" y="45" width="400" height="593"/>
+	<SubTexture name="Hero0001" x="45" y="45" width="400" height="593"/>
+	<SubTexture name="Hero0002" x="477" y="45" width="400" height="593"/>
+	<SubTexture name="Hero0003" x="477" y="45" width="400" height="593"/>
+	<SubTexture name="Hero0004" x="909" y="45" width="400" height="593"/>
+	<SubTexture name="Hero0005" x="909" y="45" width="400" height="593"/>
+	<SubTexture name="Hero0006" x="45" y="670" width="400" height="593"/>
+	<SubTexture name="Hero0007" x="45" y="670" width="400" height="593"/>
+	<SubTexture name="Hero0008" x="477" y="670" width="400" height="593"/>
+	<SubTexture name="Hero0009" x="477" y="670" width="400" height="593"/>
+	<SubTexture name="Hero0010" x="477" y="670" width="400" height="593"/>
+	<SubTexture name="Hero0011" x="477" y="670" width="400" height="593"/>
+	<SubTexture name="Hero0012" x="477" y="670" width="400" height="593"/>
+	<SubTexture name="Hero0013" x="477" y="670" width="400" height="593"/>
+</TextureAtlas>

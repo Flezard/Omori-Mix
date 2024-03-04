@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "soul_hero_idle"
+		},
+		{
+			"offsets": [
+				22,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "soul_hero_left"
+		},
+		{
+			"offsets": [
+				-1,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "soul_hero_down"
+		},
+		{
+			"offsets": [
+				-69,
+				41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "soul_hero_up"
+		},
+		{
+			"offsets": [
+				-34,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "soul_hero_right"
+		}
+	],
+	"vocals_file": "Hero",
+	"no_antialiasing": false,
+	"image": "characters/soulhero",
+	"position": [
+		-50,
+		160
+	],
+	"healthicon": "soulhero",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		88,
+		147
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

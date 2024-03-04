@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TL Idle"
+		},
+		{
+			"offsets": [
+				63,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TL Left"
+		},
+		{
+			"offsets": [
+				-90,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TL Right"
+		},
+		{
+			"offsets": [
+				20,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TL Down"
+		},
+		{
+			"offsets": [
+				-53,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TL Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/teluthusold",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "telu",
+	"flip_x": false,
+	"healthbar_colors": [
+		87,
+		0,
+		39
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

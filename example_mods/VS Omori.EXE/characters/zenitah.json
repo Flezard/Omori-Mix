@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "zeniath_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "zeniath_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-118
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "zeniath_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-167
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "zeniath_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "zeniath_up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zenitah",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "zenitah",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		247,
+		120
+	],
+	"camera_position": [
+		10,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

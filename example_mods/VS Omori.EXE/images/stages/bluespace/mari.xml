@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mari.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mari0000" x="22" y="22" width="400" height="697"/>
+	<SubTexture name="mari0001" x="22" y="22" width="400" height="697"/>
+	<SubTexture name="mari0002" x="435" y="22" width="400" height="697"/>
+	<SubTexture name="mari0003" x="435" y="22" width="400" height="697"/>
+	<SubTexture name="mari0004" x="848" y="22" width="400" height="697"/>
+	<SubTexture name="mari0005" x="848" y="22" width="400" height="697"/>
+	<SubTexture name="mari0006" x="1261" y="22" width="400" height="697"/>
+	<SubTexture name="mari0007" x="1261" y="22" width="400" height="697"/>
+	<SubTexture name="mari0008" x="1261" y="22" width="400" height="697"/>
+	<SubTexture name="mari0009" x="1261" y="22" width="400" height="697"/>
+	<SubTexture name="mari0010" x="1261" y="22" width="400" height="697"/>
+	<SubTexture name="mari0011" x="1261" y="22" width="400" height="697"/>
+</TextureAtlas>

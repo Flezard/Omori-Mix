@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aubrey.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aubrey0000" x="22" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0001" x="22" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0002" x="422" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0003" x="422" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0004" x="822" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0005" x="822" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0006" x="1222" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0007" x="1222" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0008" x="1622" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0009" x="1622" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0010" x="1622" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0011" x="1622" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0012" x="1622" y="22" width="387" height="636"/>
+	<SubTexture name="aubrey0013" x="1622" y="22" width="387" height="636"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="basil.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="basil0000" x="22" y="22" width="366" height="629"/>
+	<SubTexture name="basil0001" x="22" y="22" width="366" height="629"/>
+	<SubTexture name="basil0002" x="401" y="22" width="366" height="629"/>
+	<SubTexture name="basil0003" x="401" y="22" width="366" height="629"/>
+	<SubTexture name="basil0004" x="780" y="22" width="366" height="629"/>
+	<SubTexture name="basil0005" x="780" y="22" width="366" height="629"/>
+	<SubTexture name="basil0006" x="22" y="664" width="366" height="629"/>
+	<SubTexture name="basil0007" x="22" y="664" width="366" height="629"/>
+	<SubTexture name="basil0008" x="401" y="664" width="366" height="629"/>
+	<SubTexture name="basil0009" x="401" y="664" width="366" height="629"/>
+	<SubTexture name="basil0010" x="780" y="664" width="366" height="629"/>
+	<SubTexture name="basil0011" x="780" y="664" width="366" height="629"/>
+	<SubTexture name="basil0012" x="401" y="664" width="366" height="629"/>
+	<SubTexture name="basil0013" x="401" y="664" width="366" height="629"/>
+	<SubTexture name="basil0014" x="780" y="664" width="366" height="629"/>
+	<SubTexture name="basil0015" x="780" y="664" width="366" height="629"/>
+	<SubTexture name="basil0016" x="401" y="664" width="366" height="629"/>
+	<SubTexture name="basil0017" x="401" y="664" width="366" height="629"/>
+	<SubTexture name="basil0018" x="780" y="664" width="366" height="629"/>
+	<SubTexture name="basil0019" x="780" y="664" width="366" height="629"/>
+	<SubTexture name="basil0020" x="401" y="664" width="366" height="629"/>
+	<SubTexture name="basil0021" x="401" y="664" width="366" height="629"/>
+	<SubTexture name="basil0022" x="780" y="664" width="366" height="629"/>
+	<SubTexture name="basil0023" x="780" y="664" width="366" height="629"/>
+</TextureAtlas>

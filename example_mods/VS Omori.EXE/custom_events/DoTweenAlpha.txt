@@ -1,0 +1,4 @@
+Value 1: variableToTween
+Value 2: TargetValue,Duration,Ease
+
+	USE , TO SEPARATE THE THINGIES

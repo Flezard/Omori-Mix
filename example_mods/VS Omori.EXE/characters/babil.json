@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "babil_idle"
+		},
+		{
+			"offsets": [
+				1,
+				-44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "babil_down"
+		},
+		{
+			"offsets": [
+				66,
+				3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "babil_left"
+		},
+		{
+			"offsets": [
+				5,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "babil_up"
+		},
+		{
+			"offsets": [
+				-50,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "babil_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/babil",
+	"position": [
+		-40,
+		260
+	],
+	"healthicon": "bagel",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		255,
+		97
+	],
+	"camera_position": [
+		-30,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

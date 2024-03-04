@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "familiar_doll_idle"
+		},
+		{
+			"offsets": [
+				260,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "familiar_doll_left"
+		},
+		{
+			"offsets": [
+				-70,
+				-220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "familiar_doll_down"
+		},
+		{
+			"offsets": [
+				40,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "familiar_doll_up"
+		},
+		{
+			"offsets": [
+				-40,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "familiar_doll_right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sitting",
+			"loop": false,
+			"name": "familiar_doll_sitting"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "familiar_doll_idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/familiar_doll",
+	"position": [
+		80,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

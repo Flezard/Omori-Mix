@@ -1,0 +1,4 @@
+Value 1: camera to tween
+Value 2: TargetValue,Duration,Ease
+
+	USE , TO SEPARATE THE THINGIES

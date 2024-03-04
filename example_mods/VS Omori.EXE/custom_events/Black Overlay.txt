@@ -1,0 +1,4 @@
+value1 = alpha
+value2 = time it takes to tween 
+
+leave value2 blank if you want it to not tween

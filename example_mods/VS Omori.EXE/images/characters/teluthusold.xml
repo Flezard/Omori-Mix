@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="teluthus.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TL Down0000" x="0" y="0" width="521" height="573" frameX="0" frameY="-3" frameWidth="521" frameHeight="576"/>
+	<SubTexture name="TL Down0001" x="0" y="0" width="521" height="573" frameX="0" frameY="-3" frameWidth="521" frameHeight="576"/>
+	<SubTexture name="TL Down0002" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0003" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0004" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0005" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0006" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0007" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0008" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0009" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0010" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0011" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0012" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Down0013" x="521" y="0" width="521" height="576"/>
+	<SubTexture name="TL Idle0000" x="1042" y="0" width="447" height="625" frameX="-4" frameY="-9" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0001" x="1042" y="0" width="447" height="625" frameX="-4" frameY="-9" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0002" x="1489" y="0" width="447" height="621" frameX="-6" frameY="-13" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0003" x="1489" y="0" width="447" height="621" frameX="-6" frameY="-13" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0004" x="1936" y="0" width="447" height="627" frameX="-1" frameY="-7" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0005" x="1936" y="0" width="447" height="627" frameX="-1" frameY="-7" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0006" x="2383" y="0" width="449" height="632" frameX="0" frameY="-2" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0007" x="2383" y="0" width="449" height="632" frameX="0" frameY="-2" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0008" x="2832" y="0" width="449" height="634" frameX="0" frameY="0" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0009" x="2832" y="0" width="449" height="634" frameX="0" frameY="0" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0010" x="0" y="634" width="449" height="634" frameX="0" frameY="0" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0011" x="0" y="634" width="449" height="634" frameX="0" frameY="0" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0012" x="449" y="634" width="449" height="634" frameX="0" frameY="0" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Idle0013" x="449" y="634" width="449" height="634" frameX="0" frameY="0" frameWidth="453" frameHeight="634"/>
+	<SubTexture name="TL Laugh0000" x="898" y="634" width="592" height="619"/>
+	<SubTexture name="TL Laugh0001" x="898" y="634" width="592" height="619"/>
+	<SubTexture name="TL Laugh0002" x="1490" y="634" width="584" height="614" frameX="-6" frameY="-5" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0003" x="1490" y="634" width="584" height="614" frameX="-6" frameY="-5" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0004" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0005" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0006" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0007" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0008" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0009" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0010" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0011" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0012" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Laugh0013" x="2074" y="634" width="581" height="613" frameX="-8" frameY="-6" frameWidth="592" frameHeight="619"/>
+	<SubTexture name="TL Left0000" x="2655" y="634" width="449" height="635" frameX="0" frameY="0" frameWidth="454" frameHeight="635"/>
+	<SubTexture name="TL Left0001" x="2655" y="634" width="449" height="635" frameX="0" frameY="0" frameWidth="454" frameHeight="635"/>
+	<SubTexture name="TL Left0002" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0003" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0004" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0005" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0006" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0007" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0008" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0009" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0010" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0011" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0012" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Left0013" x="0" y="1269" width="454" height="635"/>
+	<SubTexture name="TL Right0000" x="454" y="1269" width="470" height="636" frameX="-2" frameY="0" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0001" x="454" y="1269" width="470" height="636" frameX="-2" frameY="0" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0002" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0003" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0004" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0005" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0006" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0007" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0008" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0009" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0010" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0011" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0012" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Right0013" x="924" y="1269" width="468" height="634" frameX="0" frameY="-2" frameWidth="472" frameHeight="636"/>
+	<SubTexture name="TL Up0000" x="1392" y="1269" width="397" height="682"/>
+	<SubTexture name="TL Up0001" x="1392" y="1269" width="397" height="682"/>
+	<SubTexture name="TL Up0002" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0003" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0004" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0005" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0006" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0007" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0008" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0009" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0010" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0011" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0012" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+	<SubTexture name="TL Up0013" x="1789" y="1269" width="394" height="674" frameX="-1" frameY="-7" frameWidth="397" frameHeight="682"/>
+</TextureAtlas>

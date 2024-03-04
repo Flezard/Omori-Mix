@@ -1,0 +1,3 @@
+Sets defaultCamZoom
+
+Value 1: zoom

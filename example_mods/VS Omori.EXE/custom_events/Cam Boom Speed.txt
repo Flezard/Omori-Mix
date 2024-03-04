@@ -1,0 +1,7 @@
+Value 1: Speed
+Value 2: Intensity
+
+FOR SPEED, HIGHER NUMBER MEANS LESS OFTEN
+
+FOR EXAMPLE 2 MEANS EVERY 2 BEATS
+(i think)

@@ -1,0 +1,9 @@
+Create a flash effect over the game.
+
+Value 1: Color (in Hexidecimal) 
+(ex: "000000" "FFFFFF" "30A0F0") 
+FOLLOWED BY Duration (in Seconds) 
+so value1 could for example be FFFFFF, 5
+Value 2: The Camera the flash acts upon. Can be either game, hud, or other.
+writing the full names (camGame, camOther, camHUD) also seems to work?
+not sure

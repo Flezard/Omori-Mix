@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-88
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "teluthusfake_idle"
+		},
+		{
+			"offsets": [
+				63,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "teluthusfake_left"
+		},
+		{
+			"offsets": [
+				-24,
+				-89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "teluthusfake_right"
+		},
+		{
+			"offsets": [
+				-1,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "teluthusfake_down"
+		},
+		{
+			"offsets": [
+				2,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "teluthusfake_up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/teluthusfaker",
+	"position": [
+		60,
+		-15
+	],
+	"healthicon": "telu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		145
+	],
+	"camera_position": [
+		10,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
